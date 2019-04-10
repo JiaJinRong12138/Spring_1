@@ -12,4 +12,8 @@
         <property name="u" value="123" />
     </bean>
 
+    <bean id="entity" class="com.itheima.test.entity">
+        <property name="a" value="1"/>
+    </bean>
+
 </beans>
